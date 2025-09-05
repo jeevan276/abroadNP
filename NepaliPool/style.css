@@ -661,14 +661,14 @@ footer {
   .hp_main_title > span,
   div > span {
     font-family: "Poppins", "Segoe UI", Roboto, Arial, sans-serif;
-    font-size: 24px;
+    font-size: 100%;
   }
 
   .icon_container {
-/*     height: 60px;
+    height: 60px;
     display: flex;
-    justify-content: center; */
-    display:none;
+    justify-content: center;
+   
   }
   .suggestion_box {
     height: 60px;
@@ -787,5 +787,6 @@ footer {
     font-weight: 600;
   }
 }
+
 
 
