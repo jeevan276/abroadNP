@@ -475,6 +475,7 @@ div > span {
   width: 450px;
   outline: none;
   border: none;
+  color:#fff;
   background-color: #413ba1;
   padding-left: 2%;
 }
@@ -785,3 +786,4 @@ footer {
     font-weight: 600;
   }
 }
+
