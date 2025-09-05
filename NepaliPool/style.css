@@ -661,7 +661,7 @@ footer {
   .hp_main_title > span,
   div > span {
     font-family: "Poppins", "Segoe UI", Roboto, Arial, sans-serif;
-    font-size: 100%;
+    font-size: 1.3rem;
   }
 
   .icon_container {
@@ -787,6 +787,7 @@ footer {
     font-weight: 600;
   }
 }
+
 
 
 
