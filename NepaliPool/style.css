@@ -665,9 +665,10 @@ footer {
   }
 
   .icon_container {
-    height: 60px;
+/*     height: 60px;
     display: flex;
-    justify-content: center;
+    justify-content: center; */
+    display:none;
   }
   .suggestion_box {
     height: 60px;
@@ -786,4 +787,5 @@ footer {
     font-weight: 600;
   }
 }
+
 
